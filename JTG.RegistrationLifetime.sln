@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTG.RegistrationLifetime", "JTG.RegistrationLifetime\JTG.RegistrationLifetime.csproj", "{7D39AA7E-BF6F-4653-A581-A8809C42A447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D39AA7E-BF6F-4653-A581-A8809C42A447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D39AA7E-BF6F-4653-A581-A8809C42A447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D39AA7E-BF6F-4653-A581-A8809C42A447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D39AA7E-BF6F-4653-A581-A8809C42A447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4655B2CC-1B79-47D5-B4AC-1558B8B8DB6B}
+	EndGlobalSection
+EndGlobal
